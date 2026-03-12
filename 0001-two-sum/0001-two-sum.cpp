@@ -1,8 +1,9 @@
 class Solution{
     public:
     vector<int> twoSum(vector<int>& nums, int target) {
-    for(int i=0;i<nums.size();i++){
-        for(int j=i+1;j<nums.size();j++){
+        int no=nums.size();
+    for(int i=0;i<no;i++){
+        for(int j=i+1;j<no;j++){
             if((nums[i]+nums[j])==target){
                 return {i,j};
             }
@@ -11,6 +12,4 @@ class Solution{
     return{};
     }
 };
-    
-
     
