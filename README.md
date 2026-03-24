@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
