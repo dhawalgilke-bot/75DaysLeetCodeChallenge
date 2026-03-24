@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## String
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
