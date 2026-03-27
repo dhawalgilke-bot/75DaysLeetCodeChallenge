@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
