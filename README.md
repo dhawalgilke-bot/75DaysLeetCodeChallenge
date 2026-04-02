@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
