@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
 | ------- |
