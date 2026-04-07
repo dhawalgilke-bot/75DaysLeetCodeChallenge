@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2906-construct-product-matrix](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## String
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
