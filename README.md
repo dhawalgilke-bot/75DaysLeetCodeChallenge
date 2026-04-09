@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
