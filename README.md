@@ -183,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
