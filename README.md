@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1903-largest-odd-number-in-string](https://github.com/dhawalgilke-bot/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
